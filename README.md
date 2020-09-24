@@ -1,6 +1,6 @@
 # Compiler Design
 
-See '2019-20_compiler_design_summative.pdf' for details
+See `2019-20_compiler_design_summative.pdf` for details
 
 ## Instructions to run:
 
