@@ -11,7 +11,7 @@ pip install pydot
 You can run my program in two ways:
 1. from the command line, giving the input file as a parameter:
 
-python parser.py example.txt
+'''python parser.py example.txt'''
 
 where 'example.txt' is the name of your input file
 and 'python' may have to be 'python3.7' depending on your setup
