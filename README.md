@@ -1,5 +1,8 @@
+# Compiler Design
 
-Instructions to run:
+See '2019-20_compiler_design_summative.pdf' for details
+
+## Instructions to run:
 
 I only import two modules: sys and pydot
 if neccessary, install pydot with pip:
