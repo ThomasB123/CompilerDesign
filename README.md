@@ -1,6 +1,8 @@
-# Compiler Design
+# Parser
 
-See `2019-20_compiler_design_summative.pdf` for details
+The main aim of this project was to design and implement a parser for First-Order Logic (FO).
+
+See `2019-20_compiler_design_summative.pdf` for more details
 
 ## Instructions to run:
 
