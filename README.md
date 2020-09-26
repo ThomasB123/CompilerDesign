@@ -34,7 +34,7 @@ The last three sets are actually names for the respective items. Obviously, the 
         
   4. If φ is a valid formula, then for any variable x ∈ V , ∃xφ and ∀xφ are also valid formulae.
   
-  For instance, for V ={w,x,y,z}, C ={C,D} and P ={P,Q} with respective arities 2 and 1, the follow- ing is a valid formula:
+  For instance, for V ={w,x,y,z}, C ={C,D} and P ={P,Q} with respective arities 2 and 1, the following is a valid formula:
   
         ∀x(∃y(P(x,y) =⇒ ¬Q(x))∨∃z(((C=z)∧Q(z))∧P(x,z)))
 
